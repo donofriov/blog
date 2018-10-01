@@ -9,3 +9,5 @@ fields:
 - type: textarea
   name: text
   label: Text
+pages:
+- _posts/forestry-integration.md

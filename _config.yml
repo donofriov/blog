@@ -24,7 +24,11 @@ github_username:  donofriov
 
 # Build settings
 markdown: kramdown
+<<<<<<< Updated upstream
 theme: jekyll-theme-hydejack
+=======
+theme: minima
+>>>>>>> Stashed changes
 plugins:
   - jekyll-feed
 

@@ -10,4 +10,5 @@ fields:
   name: text
   label: Text
 pages:
+- _posts/setting-up-a-completely-free-website-and-blog.md
 - _posts/2018-10-01-forestry-integration.md
